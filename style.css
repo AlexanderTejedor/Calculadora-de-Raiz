@@ -1,9 +1,11 @@
 @font-face {
-    font-family: 'kenarose', 'corbel';
+    font-family: 'kenarose';
     src: url(./rsc/fonts/Kenarose.ttf);
+}
+@font-face {
+    font-family: 'corbel';
     src: url(./rsc/fonts/CORBEL.TTF);
 }
-
 :root{
     /* Colors */
     --bg-color: #262626;
